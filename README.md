@@ -11,9 +11,15 @@ There are some differences I noticed in the original paper and the pytorch imple
 # What you will find in the notebook
 I created this notebook while exploring the Alexnet architecture. I tried plotting the 64 kernels in the first layer. 
 
+![kernels](images/first_layer.png)
+
 I then tried to cluster the 64 clusters. Initially, I clusted using the kernels, but it didn't gave good results, and I have mentioned the possible reason in the notebook.
 Later, I used clustering using activation maps, and this was giving better results. 
 
+![clusters](images/cluster.png)
+
 I have also created activation maps of the next layer, but I am not sure how can I infer them. 
+
+![activation](images/activation_maps.png)
 
 Also, do check [this](https://adamharley.com/nn_vis/cnn/3d.html) and [this](https://poloclub.github.io/cnn-explainer/) for some cool visualizations of CNN, I was thinking about creating something similar, but it's seems to be way out of my league as of now, lol, but will surely do it in future. 
