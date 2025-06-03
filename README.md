@@ -16,4 +16,4 @@ Later, I used clustering using activation maps, and this was giving better resul
 
 I have also created activation maps of the next layer, but I am not sure how can I infer them. 
 
-Also, do check [this](https://adamharley.com/nn_vis/cnn/3d.html) and [this](https://poloclub.github.io/cnn-explainer/) for some cool visualizations of CNN, I was thinking about creating something similar, but it's seems to be way out of my league as of now, lol, but will surely do it in f
+Also, do check [this](https://adamharley.com/nn_vis/cnn/3d.html) and [this](https://poloclub.github.io/cnn-explainer/) for some cool visualizations of CNN, I was thinking about creating something similar, but it's seems to be way out of my league as of now, lol, but will surely do it in future. 
